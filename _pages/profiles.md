@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
+permalink: /students/
+title: Students
 description: members of the lab
-nav: true
+nav: false
 nav_order: 7
 _styles: >
   .profile .more-info p { font-size: 1.5rem; line-height: 1.3; }

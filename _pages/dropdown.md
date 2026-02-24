@@ -1,11 +1,14 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 8
+title: People
+nav: true
+nav_order: 7
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
+  - title: Professor
+    permalink: /professor/
+  - title: Students
+    permalink: /students/
+  - title: Alumni
+    permalink: /alumni/
 ---

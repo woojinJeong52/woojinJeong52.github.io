@@ -3,7 +3,7 @@ layout: profiles
 permalink: /alumni/
 title: Alumni
 description: alumni of the lab
-nav: true
+nav: false
 nav_order: 8
 _styles: >
   .profile .more-info p { font-size: 1.5rem; line-height: 1.3; }
