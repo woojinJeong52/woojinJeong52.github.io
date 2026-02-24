@@ -9,9 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Myoung Hoon Lee</p>
+    <p>Assistant Professor, Ph.D.</p>
+    <p>Department of Electrical Engineering</p>
+    <p>Incheon National University</p>
+    <p>119, Academy-ro, Yeonsu-gu</p>
+    <p>Incheon (22012), South Korea</p>
+    <p>Email: mh.lee@inu.ac.kr</p>
+    <p>Tel: +82-32-835-8433</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
