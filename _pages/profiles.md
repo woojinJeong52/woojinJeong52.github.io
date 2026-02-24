@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: members of the lab
 nav: true
 nav_order: 7
 
@@ -14,17 +14,17 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dain</p>
+      <p>&#xD55C; &#xB2E4; &#xC778; / Dain Han</p>
   - align: right
     image: woo.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Woo</p>
+      <p>&#xC815; &#xC6B0; &#xC9C4; / Woojin Jeong</p>
   - align: right
     image: gyun.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Gyun</p>
+      <p>&#xC774; &#xAE30; &#xD604; / Gihyun Lee</p>
 ---
