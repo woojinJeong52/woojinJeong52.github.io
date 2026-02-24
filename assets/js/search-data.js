@@ -422,7 +422,9 @@ ninja.data = [{
             },},{id: "news-department-of-electrical-engineering-incheon-national-university-grand-prize-1st-kaist-mobility-challenge-2025",
           title: 'Department of Electrical Engineering, Incheon National University Grand Prize - 1st KAIST Mobility...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
