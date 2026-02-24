@@ -4,5 +4,5 @@ title: Department of Electrical Engineering, Incheon National University Grand P
 date: 2026-02-10 09:00:00+0900
 inline: false
 related_posts: false
-image: /assets/img/KAIST1st.JPG
+image: /assets/img/kaist1st.jpg
 ---
