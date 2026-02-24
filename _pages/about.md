@@ -4,18 +4,6 @@ title: Home
 permalink: /
 subtitle: "Intelligent Control & Machine Learning Lab"
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Myoung Hoon Lee</p>
-    <p>Assistant Professor</p>
-    <p>Ph.D. Department of Electrical Engineering</p>
-    <p>Incheon National University</p>
-    <p>Email: mh.lee@inu.ac.kr</p>
-    <p>Tel: +82-32-835-8433</p>
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -30,4 +18,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-추후 수정 및 기입 예정
+<div style="text-align: center;">
+  <img src="{{ '/assets/img/labhomepage.png' | relative_url }}" alt="Lab Homepage" style="width: 95%; max-width: 1400px; height: auto;">
+</div>
