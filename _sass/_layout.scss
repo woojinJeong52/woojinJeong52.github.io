@@ -19,22 +19,6 @@ body {
   }
 }
 
-// Home page-only scale up for readability.
-.home-scale {
-  font-size: 1.5rem;
-
-  .post-title {
-    font-size: 3.75rem;
-  }
-
-  table {
-    th,
-    td {
-      font-size: 1.5rem;
-    }
-  }
-}
-
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
   padding-top: 57px;
