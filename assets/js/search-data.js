@@ -405,16 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-department-of-electrical-engineering-incheon-national-university-grand-prize-1st-kaist-mobility-challenge-2025",
+          title: 'Department of Electrical Engineering, Incheon National University Grand Prize - 1st KAIST Mobility...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
