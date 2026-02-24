@@ -6,7 +6,7 @@ description: members of the lab
 nav: false
 nav_order: 7
 _styles: >
-  .profile .more-info p { font-size: 1.5rem; line-height: 1.3; }
+  .profile .more-info p { font-size: 1.2rem; line-height: 1.3; }
   .clearfix p { font-size: 1.5rem; line-height: 1.35; }
 
 profiles:

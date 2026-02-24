@@ -17,7 +17,3 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-<div style="text-align: center;">
-  <img src="{{ '/assets/img/labhomepage.png' | relative_url }}" alt="Lab Homepage" style="width: 95%; max-width: 1400px; height: auto;">
-</div>
