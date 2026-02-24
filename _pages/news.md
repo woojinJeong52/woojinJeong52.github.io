@@ -20,8 +20,12 @@ nav_order: 99
                 {{ item.content | emojify }}
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                {% if item.content and item.content != '' %}
-                  <div style="margin-top: 0.8rem">{{ item.content }}</div>
+                {% if item.image %}
+                  <div style="margin-top: 0.8rem">
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" style="max-width: 100%; height: auto;">
+                  </div>
+                {% elsif item.content and item.content != '' %}
+                  <div style="margin-top: 0.8rem">{{ item.content | markdownify }}</div>
                 {% endif %}
               {% endif %}
             </td>
