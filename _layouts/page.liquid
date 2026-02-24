@@ -25,6 +25,11 @@ layout: default
     </div>
   {% endif %}
 
+  {% assign contact_pages = "/publications/,/projects/,/students/,/news/,/professor/,/alumni/" | split: "," %}
+  {% if contact_pages contains page.permalink %}
+    {% include contact_footer.liquid %}
+  {% endif %}
+
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}

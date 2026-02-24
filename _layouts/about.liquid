@@ -75,6 +75,8 @@ layout: default
       </div>
     {% endif %}
 
+    {% include contact_footer.liquid %}
+
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
