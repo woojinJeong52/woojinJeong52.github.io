@@ -20,7 +20,7 @@ _styles: >
   }
   .professor-hero__text {
     text-align: left;
-    font-size: 2rem;
+    font-size: 1rem;
     line-height: 1.35;
   }
   .professor-hero__text p {
