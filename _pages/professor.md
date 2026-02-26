@@ -20,18 +20,19 @@ _styles: >
   }
   .professor-hero__text {
     text-align: left;
-    font-size: 1rem;
+    font-size: 1.4rem;
     line-height: 1.35;
   }
   .professor-hero__text p {
-    margin: 0 0 0.6rem 0;
+    margin: 0 0 1.1rem 0;
   }
 ---
 
 <div class="professor-hero">
   <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Myoung Hoon Lee">
   <div class="professor-hero__text">
-    <p>Myoung Hoon Lee Assistant Professor</p>
+    <p>Myoung Hoon Lee</p>
+    <p>Assistant Professor</p>
     <p>Ph.D. Department of Electrical Engineering</p>
     <p>Incheon National University</p>
     <p>Email: mh.lee@inu.ac.kr</p>
