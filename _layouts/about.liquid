@@ -4,7 +4,9 @@ layout: default
 <div class="post">
   <header class="post-header">
     {% if page.permalink == '/' %}
-      <img src="{{ '/assets/img/icmllogo.png' | relative_url }}" alt="ICML Logo" style="max-width: 420px; width: 100%; height: auto; margin-left: -5cm; margin-top: -2.7cm; margin-bottom: -2.7cm;">
+      <div style="text-align: center; margin: 1.25rem 0 4rem 0;">
+        <img src="{{ '/assets/img/hompage homelogo.png' | relative_url }}" alt="ICML Home Logo" style="display: inline-block; width: min(86vw, 780px); height: auto;">
+      </div>
     {% else %}
       <h1 class="post-title">
         {% if site.title == 'blank' %}
