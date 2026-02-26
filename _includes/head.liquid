@@ -87,6 +87,11 @@
     media="none"
     id="highlight_theme_dark"
   >
+  {% if site.force_darkmode %}
+    <script>
+      localStorage.setItem("theme", "dark");
+    </script>
+  {% endif %}
   <script>
     initTheme();
   </script>
