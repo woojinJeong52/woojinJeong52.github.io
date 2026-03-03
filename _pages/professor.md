@@ -84,7 +84,7 @@ _styles: >
 <section class="professor-section">
   <h2>Working Experience</h2>
   <ul>
-    <li>Assistant Professor (Mar. 2021 – Present), Department of Electrical Engineering, Incheon National University, Incheon, South Korea</li>
+    <li>Assistant Professor (Mar. 2023 – Present), Department of Electrical Engineering, Incheon National University, Incheon, South Korea</li>
   </ul>
 </section>
 
